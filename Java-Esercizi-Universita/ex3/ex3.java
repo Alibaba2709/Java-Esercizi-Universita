@@ -1,3 +1,13 @@
+/* Scrivere un programma Java che:
+1. Chieda in input all’utente il numero N di numeri che si vogliono inserire
+2. Acquisisca da tastiera N numeri interi chiedendoli all’utente uno alla
+volta
+3. 4. Durante l’acquisizione dei numeri, usando la classe Math, memorizzare:
+1. 2. 3. Il numero più grande inserito max
+Il numero più piccolo inserito min
+Il numero più grande in valore assoluto maxabs
+Stampare a video il risultato dell’espressione (max-min)maxabs (maxabs è esponente) */
+
 package ex3;
 
 import java.util.Scanner;
